@@ -24,3 +24,4 @@ for (int j = 0; j < elementos; j++)
         Console.WriteLine("elemento " + (j + 1) + " con valor: " + valor[j]);
     }
 }
+Console.ReadKey();
