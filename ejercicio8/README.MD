@@ -52,15 +52,51 @@ namespace MyApp
                     int tipo = int.Parse(Console.ReadLine());
                     if (tipo == 1)
                     {
-                        Array.Sort(vector);
+                        for (int i = 0; i < tamaño - 1; i++)
+                        {
+                            for (int t = 0; t < tamaño - 1; t++)
+                            {
+                                if (vector[t] < vector[t + 1])
+                                {
+                                    orden = vector[t + 1];
+                                    vector[t + 1] = vector[t];
+                                    vector[t] = orden;
+                                }
+                            }
                     }
-                    else if (tipo == 2)
+                    Console.Clear();
+                    Console.WriteLine("aqui los puntajes de menor a mayor: ");
+                    for (int i = 0; i < tamaño; i++)
                     {
-                        Array.Reverse(vector);
+                        Console.WriteLine(vector[i]);
+                        Console.WriteLine("-------------------------");
                     }
-                    break;
-                default:
-                    Console.WriteLine("_________________________________________");
+                }
+                else if (tipo == 2)
+                {
+                for (int i = 0; i < tamaño - 1; i++)
+                {
+                    for (int t = 0; t < tamaño - 1; t++)
+                    {
+                        if (vector[t] > vector[t + 1])
+                    {
+                        orden = vector[t + 1];
+                        vector[t + 1] = vector[t];
+                        vector[t] = orden;
+                    }
+                }
+            }
+            Console.Clear();
+            Console.WriteLine("aqui los puntajes de menor a mayor: ");
+            for (int i = 0; i < tamaño; i++)
+            {
+                Console.WriteLine(vector[i]);
+                Console.WriteLine("-------------------------");
+            }
+            }
+            break;
+        default:
+                                        Console.WriteLine("_________________________________________");
                     Console.WriteLine("eligió salir del programa");
                     break;
             }
