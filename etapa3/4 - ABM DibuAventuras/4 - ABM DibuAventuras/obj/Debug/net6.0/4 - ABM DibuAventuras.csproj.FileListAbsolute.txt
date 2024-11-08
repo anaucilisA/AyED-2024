@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\4 - ABM DibuAventuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\4 - ABM DibuAventuras.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\4 - ABM DibuAventuras.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\4 - ABM DibuAventuras.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\bin\Debug\net6.0\4 - ABM DibuAventuras.exe
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\bin\Debug\net6.0\4 - ABM DibuAventuras.deps.json
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\bin\Debug\net6.0\4 - ABM DibuAventuras.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\bin\Debug\net6.0\4 - ABM DibuAventuras.dll
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\bin\Debug\net6.0\4 - ABM DibuAventuras.pdb
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\4 - ABM DibuAventuras.dll
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\refint\4 - ABM DibuAventuras.dll
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\4 - ABM DibuAventuras.pdb
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\4 - ABM DibuAventuras.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\etapa 3\4 - ABM DibuAventuras\4 - ABM DibuAventuras\obj\Debug\net6.0\ref\4 - ABM DibuAventuras.dll

@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\3 - PochimonsFuncionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\3 - PochimonsFuncionales.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\3 - PochimonsFuncionales.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\3 - PochimonsFuncionales.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\bin\Debug\net6.0\3 - PochimonsFuncionales.exe
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\bin\Debug\net6.0\3 - PochimonsFuncionales.deps.json
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\bin\Debug\net6.0\3 - PochimonsFuncionales.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\bin\Debug\net6.0\3 - PochimonsFuncionales.dll
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\bin\Debug\net6.0\3 - PochimonsFuncionales.pdb
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\3 - PochimonsFuncionales.dll
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\refint\3 - PochimonsFuncionales.dll
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\3 - PochimonsFuncionales.pdb
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\3 - PochimonsFuncionales.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\etapa 3\3 - PochimonsFuncionales\3 - PochimonsFuncionales\obj\Debug\net6.0\ref\3 - PochimonsFuncionales.dll
