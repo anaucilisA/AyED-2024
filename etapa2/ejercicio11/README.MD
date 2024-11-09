@@ -1,52 +1,63 @@
 using System;
 
-namespace rotacion_de_matriz
+namespace suma_de_matrices
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[,] matriz_cuadrada = new int[3, 3];
-            for (int filas = 0; filas < matriz_cuadrada.GetLength(0); filas++)
+            //Sumar dos matrices de igual tamaño nxn.
+            int[,] matriz_A = new int[2, 2];
+            Console.WriteLine("ingrese los valores de la matriz A: ");
+            for (int filas = 0; filas < matriz_A.GetLength(0); filas++)
             {
-                for (int columnas = 0; columnas < matriz_cuadrada.GetLength(1); columnas++)
+                for (int columnas = 0; columnas < matriz_A.GetLength(1); columnas++)
                 {
-                    Console.Write("Ingrese valor para matriz cuadrada[{0},{1}]: ", filas, columnas);
-                    matriz_cuadrada[filas, columnas] = int.Parse(Console.ReadLine());
+                    matriz_A[filas, columnas] = int.Parse(Console.ReadLine());
                 }
             }
-
-            Console.WriteLine("\nMatriz original:");
-            for (int filas = 0; filas < matriz_cuadrada.GetLength(0); filas++)
+            Console.WriteLine("--------------------------------------------------");
+            Console.WriteLine("Matriz A");
+            for (int filas = 0; filas < matriz_A.GetLength(0); filas++)
             {
-                for (int columnas = 0; columnas < matriz_cuadrada.GetLength(1); columnas++)
+                for (int columnas = 0; columnas < matriz_A.GetLength(1); columnas++)
                 {
-                    Console.Write(matriz_cuadrada[filas, columnas] + " ");
-                }
-                Console.WriteLine();
-            }
-
-            int[,] matriz_rotada = new int[3, 3];
-            int n = matriz_cuadrada.GetLength(0);
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j < n; j++)
-                {
-                    matriz_rotada[j, n - 1 - i] = matriz_cuadrada[i, j];
-                }
-            }
-
-            Console.WriteLine("\nMatriz rotada 90 grados en sentido horario:");
-            for (int filas = 0; filas < matriz_rotada.GetLength(0); filas++)
-            {
-                for (int columnas = 0; columnas < matriz_rotada.GetLength(1); columnas++)
-                {
-                    Console.Write(matriz_rotada[filas, columnas] + " ");
+                    Console.WriteLine("" + matriz_A[filas, columnas]);
                 }
                 Console.WriteLine();
             }
-
-            Console.ReadKey();
+            Console.WriteLine("--------------------------------------------------");
+            int[,] matriz_B = new int[2, 2];
+            Console.WriteLine("ingrese los valores de la matriz B: ");
+            for (int filas = 0; filas < matriz_B.GetLength(0); filas++)
+            {
+                for (int columnas = 0; columnas < matriz_B.GetLength(1); columnas++)
+                {
+                    matriz_B[filas, columnas] = int.Parse(Console.ReadLine());
+                }
+            }
+            Console.WriteLine("--------------------------------------------------");
+            Console.WriteLine("Matriz B");
+            for (int filas = 0; filas < matriz_B.GetLength(0); filas++)
+            {
+                for (int columnas = 0; columnas < matriz_B.GetLength(0); columnas++)
+                {
+                    Console.WriteLine("" + matriz_B[filas, columnas]);
+                }
+                Console.WriteLine();
+            }
+            int[,] matriz_C = new int[2, 2];
+            Console.WriteLine("----------------------------------------------------");
+            Console.WriteLine("La suma de las dos matrices: ");
+            for (int filas = 0; filas < matriz_C.GetLength(0); filas++)
+            {
+                for (int columnas = 0; columnas < matriz_C.GetLength(1); columnas++)
+                {
+                    matriz_C[filas, columnas] = matriz_A[filas, columnas] + matriz_B[filas, columnas];
+                    Console.WriteLine(matriz_C[filas, columnas]);
+                }
+            }
+            
         }
     }
 }
