@@ -1,0 +1,7 @@
+String nombre, ciudad;
+            Console.WriteLine("ingrese su nombre");
+            nombre = Console.ReadLine();
+            Console.WriteLine("ingrese el nombre de su ciudad");
+            ciudad = Console.ReadLine();
+            Console.WriteLine("Hola " + nombre + " bienvenida a " + ciudad);
+            Console.ReadKey();
