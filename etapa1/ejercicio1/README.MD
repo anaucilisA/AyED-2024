@@ -1,0 +1,10 @@
+            int uno, dos, tres, suma;
+            Console.WriteLine("ingrese un numero: ");
+            uno = int.Parse(Console.ReadLine());
+            Console.WriteLine("ingrese otro numero: ");
+            dos = int.Parse(Console.ReadLine());
+            Console.WriteLine("ingrese otro numero: ");
+            tres = int.Parse(Console.ReadLine());
+            Console.WriteLine("suma: "+ (uno + dos + tres));
+            suma = int.Parse(Console.ReadLine());            
+            Console.ReadKey();
